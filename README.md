@@ -33,3 +33,7 @@ The current system uses a limited vocabulary and
 database-dependent DTW matching. Continuous sign language,
 sentence segmentation, and cross-user generalization remain
 open challenges.
+
+## Demo
+
+![Demo](demo.gif)
